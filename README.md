@@ -1,2 +1,3 @@
 # Ogrody Zimowe Premium
-Pierwsza wersja repozytorium
+
+Pierwsza wersja strony
